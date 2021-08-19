@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f21438f-b22b-4c39-817a-c16a6a5d3797" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>summ</find>
+      <find>data?.</find>
+      <find>data?.attributes?.</find>
+      <find>data?.data?.attributes?.</find>
+      <find>rout</find>
+      <find>setLastName</find>
+      <find>dobErr</find>
+      <find>sess</find>
+      <find>toke</find>
+      <find>state</find>
+      <find>is_c</find>
+      <find>getUserData</find>
+      <find>userD</find>
+      <find>.setItem('userData'</find>
+      <find>perso</find>
+      <find>sessionStorage</find>
+      <find>addr</find>
+      <find>search</find>
+      <find>map</find>
+      <find>butt</find>
+      <find>che</find>
+      <find>''</find>
+      <find />
+      <find>app</find>
+      <find>card</find>
+      <find>appoin</find>
+      <find>adver</find>
+      <find>request</find>
+      <find>appo</find>
+      <find>upd</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/manage-property</replace>
+      <replace>currentImage</replace>
+      <replace>&lt;/h2&gt;&lt;/Marquee&gt;</replace>
+      <replace>property-compliance-document</replace>
+      <replace>IonLabel</replace>
+      <replace>stripe</replace>
+      <replace>data</replace>
+      <replace>data?.data?</replace>
+      <replace>data?</replace>
+      <replace>data.data</replace>
+      <replace>{data?</replace>
+      <replace>data?.data?.attributes</replace>
+      <replace>data?.data?.attributes?</replace>
+      <replace>profile_photo_path</replace>
+      <replace>user</replace>
+      <replace>color={'medium'}</replace>
+      <replace>slot={'start'}  color={'medium'}</replace>
+      <replace>subject</replace>
+      <replace>''</replace>
+      <replace>&lt;IonInput required</replace>
+      <replace>user.</replace>
+      <replace>'',</replace>
+      <replace>data?.attributtes?.</replace>
+      <replace>data?.attributes?.</replace>
+      <replace>data?.data?.attributes?.</replace>
+      <replace>user?.</replace>
+      <replace>moveInDateErr</replace>
+      <replace>getUser</replace>
+      <replace>localStorage</replace>
+      <replace>' '</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/api.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/App.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/pages/tenancy-requirements/tenancy-requirements.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/pages/number-of-rooms/number-of-rooms.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/pages/key-collection/key-collection.tsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/pages/rental-offer/rental-offer.tsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pages/market-place/market-place.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/advertise-dashboard/advertise-dashboard.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/payment-methods/market-place.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/payment-methods/add-payment-method.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/personal-details/invitation-code.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/feedback/feedback.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/property-profile/duplicate.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/invite-tenant/invite-tenant.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/profile/profile.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/dashboard/dashboard.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/tenant-address-details/tenant-address-details.tsx" />
+        <option value="$PROJECT_DIR$/src/Store/UserStore.ts" />
+        <option value="$PROJECT_DIR$/src/components/dataset.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/confirm-property/confirm-property.tsx" />
+        <option value="$PROJECT_DIR$/src/components/ExploreContainer.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/photos/photos.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/tenants-dashboard/profileEdit.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/property-overview/property-full-description.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/property-advert/confirm-property.tsx" />
+        <option value="$PROJECT_DIR$/src/components/Avatar.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/stats.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/property-profile/property-profile.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/confirm-property/advertised.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/appointment-availability/send-appointment.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/rental-offer/viewing-feedback.tsx" />
+        <option value="$PROJECT_DIR$/src/components/Toast.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/rental-offer/property-viewing-feedback.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/property-overview/property-overview.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/payment-methods/payment-methods.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/my-details/my-details.tsx" />
+        <option value="$PROJECT_DIR$/src/components/stripe.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/chat/chat.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/address-edit/address-edit.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/tenants-dashboard/settings.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/personal-details/personal-details.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/tenant-address/tenant-address.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/personal-details2/personal-details2.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/address/address.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/login/login.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/welcome-screen/welcome-screen.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/portfolio/portfolio.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/tenancy-requirements/tenancy-requirements.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/property-advert/landlord-card.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/property-advert/property-advert.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/appointment-availability/appointment-availability.tsx" />
+        <option value="$PROJECT_DIR$/src/api.js" />
+        <option value="$PROJECT_DIR$/src/pages/rental-offer/rental-offer.tsx" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/pages/key-collection/personal-details-upload.tsx" />
+        <option value="$PROJECT_DIR$/src/App.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/key-collection/key-collection.tsx" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="1318" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectId" id="1wtjROLzzvNf5EulmfUi0dEeBV7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sucasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sucasa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sucasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sucasa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sucasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sucasa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sucasa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sucasa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="key-collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="C:\Users\Lester\Desktop\sucasa\src\pages" />
+      <recent name="C:\Users\Lester\Desktop\sucasa\src\pages\rental-offer" />
+      <recent name="C:\Users\Lester\Desktop\sucasa\src\pages\appointment-availability" />
+      <recent name="C:\Users\Lester\Desktop\sucasa\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lester\Desktop\sucasa\src\utils" />
+      <recent name="C:\Users\Lester\Desktop\sucasa\src\pages\subscription" />
+      <recent name="C:\Users\Lester\Desktop\sucasa\src\pages" />
+      <recent name="C:\Users\Lester\Desktop\sucasa\src" />
+      <recent name="C:\Users\Lester\Desktop\sucasa\public\assets\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.buildAndroid">
+    <configuration name="api.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="api.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="buildAndroid" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="buildAndroid" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="eject" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="run" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.buildAndroid" />
+        <item itemvalue="npm.eject" />
+        <item itemvalue="Node.js.api.js" />
+        <item itemvalue="npm.run" />
+        <item itemvalue="npm.deploy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructuralSearchPlugin">
+    <replaceConfiguration name="user defined" created="1627499116753" text="&quot;userData&quot;" recursive="false" caseInsensitive="false" type="TypeScript JSX" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="'user'" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="user defined" created="1627499116753" text="'userData'" recursive="false" caseInsensitive="false" type="TypeScript JSX" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="'user'" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="user defined" created="1627499116753" text="'userData'" recursive="false" caseInsensitive="false" type="TypeScript JSX" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="user" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="user defined" created="1627499116753" text="userData" recursive="false" caseInsensitive="false" type="TypeScript JSX" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="user" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="user defined" created="1627499116753" text="localStorage.userData" recursive="false" caseInsensitive="true" type="TypeScript JSX" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="localStorage.user" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+    </replaceConfiguration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f21438f-b22b-4c39-817a-c16a6a5d3797" name="Default Changelist" comment="" />
+      <created>1607161925815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607161925815</updated>
+      <workItem from="1607161940173" duration="3043000" />
+      <workItem from="1607414146830" duration="39000" />
+      <workItem from="1607416934301" duration="5480000" />
+      <workItem from="1607427265500" duration="6503000" />
+      <workItem from="1607588137465" duration="3926000" />
+      <workItem from="1608227904929" duration="11359000" />
+      <workItem from="1608532358622" duration="26000" />
+      <workItem from="1608625722095" duration="7496000" />
+      <workItem from="1608637814084" duration="4193000" />
+      <workItem from="1608653127072" duration="3325000" />
+      <workItem from="1608658287611" duration="5906000" />
+      <workItem from="1609143543677" duration="18918000" />
+      <workItem from="1609241006402" duration="13041000" />
+      <workItem from="1609846146897" duration="8370000" />
+      <workItem from="1609918145406" duration="3700000" />
+      <workItem from="1610015312986" duration="2124000" />
+      <workItem from="1610458348248" duration="21379000" />
+      <workItem from="1611064420392" duration="53858000" />
+      <workItem from="1611481913406" duration="29116000" />
+      <workItem from="1611592295150" duration="31924000" />
+      <workItem from="1611689512274" duration="29909000" />
+      <workItem from="1611772919413" duration="44741000" />
+      <workItem from="1612001457594" duration="13398000" />
+      <workItem from="1612039922287" duration="35791000" />
+      <workItem from="1612462534775" duration="584000" />
+      <workItem from="1612512709574" duration="463000" />
+      <workItem from="1612601663959" duration="3383000" />
+      <workItem from="1612949355820" duration="1580000" />
+      <workItem from="1612952677248" duration="8627000" />
+      <workItem from="1613157434042" duration="12101000" />
+      <workItem from="1613241099930" duration="35695000" />
+      <workItem from="1613421815051" duration="14265000" />
+      <workItem from="1613548965187" duration="11053000" />
+      <workItem from="1613585305114" duration="1022000" />
+      <workItem from="1613635900375" duration="38000" />
+      <workItem from="1613663347370" duration="16559000" />
+      <workItem from="1613895878752" duration="99000" />
+      <workItem from="1614325751812" duration="5712000" />
+      <workItem from="1614344445947" duration="1917000" />
+      <workItem from="1614585597296" duration="21409000" />
+      <workItem from="1614678346637" duration="5759000" />
+      <workItem from="1614708870441" duration="34565000" />
+      <workItem from="1615197982883" duration="18823000" />
+      <workItem from="1615288702865" duration="12196000" />
+      <workItem from="1615308092418" duration="3521000" />
+      <workItem from="1615331028202" duration="1925000" />
+      <workItem from="1615813421551" duration="1191000" />
+      <workItem from="1615901584481" duration="18000" />
+      <workItem from="1615968745801" duration="2629000" />
+      <workItem from="1616013687606" duration="81000" />
+      <workItem from="1616053745500" duration="1589000" />
+      <workItem from="1616139387424" duration="190000" />
+      <workItem from="1616144516944" duration="600000" />
+      <workItem from="1616177843358" duration="129000" />
+      <workItem from="1616178200922" duration="10759000" />
+      <workItem from="1616268861795" duration="60759000" />
+      <workItem from="1616582050191" duration="14564000" />
+      <workItem from="1616708618366" duration="26328000" />
+      <workItem from="1616922599026" duration="4539000" />
+      <workItem from="1617100990674" duration="3063000" />
+      <workItem from="1617123734434" duration="6954000" />
+      <workItem from="1617209949977" duration="9798000" />
+      <workItem from="1617298269232" duration="4179000" />
+      <workItem from="1617528130494" duration="112000" />
+      <workItem from="1617530857213" duration="36642000" />
+      <workItem from="1617729944047" duration="514000" />
+      <workItem from="1617733885559" duration="10537000" />
+      <workItem from="1617779120080" duration="4596000" />
+      <workItem from="1617804277747" duration="624000" />
+      <workItem from="1617814934197" duration="1078000" />
+      <workItem from="1617869245532" duration="18227000" />
+      <workItem from="1617962305306" duration="12401000" />
+      <workItem from="1618240537873" duration="1396000" />
+      <workItem from="1618292820860" duration="12242000" />
+      <workItem from="1618317687993" duration="2978000" />
+      <workItem from="1618383084428" duration="28712000" />
+      <workItem from="1618566507217" duration="1506000" />
+      <workItem from="1618589658332" duration="11522000" />
+      <workItem from="1618758604449" duration="1227000" />
+      <workItem from="1618762752627" duration="2568000" />
+      <workItem from="1618825802956" duration="13168000" />
+      <workItem from="1618843232181" duration="2010000" />
+      <workItem from="1618907685354" duration="3507000" />
+      <workItem from="1618996250895" duration="18968000" />
+      <workItem from="1619174274797" duration="27534000" />
+      <workItem from="1619545727395" duration="8049000" />
+      <workItem from="1619632809717" duration="651000" />
+      <workItem from="1619691555065" duration="698000" />
+      <workItem from="1619724601628" duration="2311000" />
+      <workItem from="1619948859162" duration="9058000" />
+      <workItem from="1620231163474" duration="4601000" />
+      <workItem from="1620239672424" duration="626000" />
+      <workItem from="1620241002361" duration="632000" />
+      <workItem from="1620241666599" duration="13657000" />
+      <workItem from="1620403075366" duration="66000" />
+      <workItem from="1620403906971" duration="16260000" />
+      <workItem from="1620670566997" duration="4697000" />
+      <workItem from="1620803748899" duration="31136000" />
+      <workItem from="1621240450165" duration="26000" />
+      <workItem from="1621640387281" duration="562000" />
+      <workItem from="1622104517817" duration="1368000" />
+      <workItem from="1622286374752" duration="5711000" />
+      <workItem from="1622480321577" duration="610000" />
+      <workItem from="1622876412414" duration="9445000" />
+      <workItem from="1623000728871" duration="554000" />
+      <workItem from="1623835777792" duration="8764000" />
+      <workItem from="1624472300711" duration="3303000" />
+      <workItem from="1625226195346" duration="6653000" />
+      <workItem from="1625751788483" duration="7512000" />
+      <workItem from="1625813867287" duration="23000" />
+      <workItem from="1626289348783" duration="9442000" />
+      <workItem from="1626431388971" duration="597000" />
+      <workItem from="1626435030299" duration="5750000" />
+      <workItem from="1626446956873" duration="614000" />
+      <workItem from="1626451909039" duration="7874000" />
+      <workItem from="1626513260258" duration="15852000" />
+      <workItem from="1626802878089" duration="38000" />
+      <workItem from="1626898114314" duration="646000" />
+      <workItem from="1627129162733" duration="4132000" />
+      <workItem from="1627133413544" duration="518000" />
+      <workItem from="1627377083220" duration="24951000" />
+      <workItem from="1627459823658" duration="1823000" />
+      <workItem from="1627497278782" duration="4853000" />
+      <workItem from="1627581597450" duration="13421000" />
+      <workItem from="1627661962502" duration="4895000" />
+      <workItem from="1628236088318" duration="503000" />
+      <workItem from="1628237039561" duration="18000" />
+      <workItem from="1628237403856" duration="676000" />
+      <workItem from="1628240162670" duration="826000" />
+      <workItem from="1629284773431" duration="731000" />
+      <workItem from="1629289471631" duration="1510000" />
+      <workItem from="1629297187551" duration="391000" />
+      <workItem from="1629357442771" duration="1973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1162702000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15997024" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8816" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.408" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.048" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5052083" side_tool="true" weight="0.8544" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49479166" weight="0.7776" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17931548" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8816" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.408" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.048" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50446427" side_tool="true" weight="0.5088" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4955357" weight="0.5776" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pages/property-advert/advertised.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/pages/property-advert/confirm-property.css" />
+    <entry file="file://$PROJECT_DIR$/node_modules/moment/moment.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ExploreContainer.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="22" column="64" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/UserCard.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/pages/property-profile/property-profile.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Avatar.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/confirm-property/advertised.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/property-overview/property-full-description.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/stats.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/pending-tenancy/confirmed-appointment.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#2451#3007#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/appointment-availability/appointment-reschedule.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-695">
+          <caret line="20" column="62" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="62" />
+          <folding>
+            <element signature="e#1707#2156#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/compliance/compliance.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-831">
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/appointment-availability/send-appointment.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="942">
+          <caret line="72" column="140" selection-start-line="72" selection-start-column="140" selection-end-line="72" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/rental-offer/property-viewing-feedback.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1416">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/property-overview/property-overview.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Toast.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/rental-offer/viewing-feedback.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/personal-details-id-upload/personal-details-upload.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/login.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/payment-methods/payment-methods.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="31" column="64" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/my-details/my-details.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="145" column="2" selection-start-line="145" selection-start-column="2" selection-end-line="145" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/personal-details/personal-details.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/stripe.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/welcome-screen/welcome-screen.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="65" column="59" lean-forward="true" selection-start-line="65" selection-start-column="59" selection-end-line="65" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/tenant-address/tenant-address.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#3490#3932#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/property-type/property-type.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="27" column="83" selection-start-line="27" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/property-address/property-address.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3236">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/dob/dob.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/portfolio/portfolio.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="302" column="85" lean-forward="true" selection-start-line="302" selection-start-column="85" selection-end-line="302" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/address/address.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="83" column="5" selection-start-line="58" selection-start-column="3" selection-end-line="83" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/availability/availability.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/property-advert/property-advert.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2100">
+          <caret line="92" column="62" selection-start-line="92" selection-start-column="62" selection-end-line="92" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/login.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/confirm-property/confirm-property.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="831">
+          <caret line="38" column="71" selection-start-line="38" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/property-advert/landlord-card.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/chat/chat.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-293">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/jest/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10728">
+          <caret line="476" column="12" selection-start-line="476" selection-start-column="12" selection-end-line="476" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/tenants-dashboard/settings.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="52" column="54" selection-start-line="52" selection-end-line="53" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Store/UserStore.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#83#572#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/address-edit/address-edit.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5084">
+          <caret line="246" column="34" selection-start-line="246" selection-start-column="34" selection-end-line="246" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/personal-details2/personal-details2.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="120" column="63" selection-start-line="120" selection-start-column="22" selection-end-line="120" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/appointment-availability/appointment-availability.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/rental-offer/rental-offer.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2112">
+          <caret line="88" column="42" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/number-of-rooms/number-of-rooms.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/tenancy-requirements/tenancy-requirements.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3864">
+          <caret line="183" column="26" selection-start-line="177" selection-start-column="12" selection-end-line="183" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#2413#3402#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6624">
+          <caret line="276" column="52" selection-start-line="276" selection-start-column="37" selection-end-line="276" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#347#387#0" expanded="true" />
+            <element signature="e#522#560#0" expanded="true" />
+            <element signature="e#840#871#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3744">
+          <caret line="223" column="44" selection-start-line="223" selection-start-column="44" selection-end-line="223" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="n#!!block;n#register#0" />
+            <element signature="n#!!block;n#postData#0" />
+            <element signature="n#!!block;n#postDataID#0" />
+            <element signature="n#!!block;n#uploadImage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/key-collection/key-collection.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="192" lean-forward="true" selection-start-line="192" selection-end-line="192" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

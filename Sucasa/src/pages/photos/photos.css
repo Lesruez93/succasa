@@ -1,0 +1,30 @@
+.-margin-left:not(:first-child)  {
+    margin-left: -35px;
+}
+.avatar{
+    background: #f7f7f7;
+
+}
+
+.ln{
+    line-height: 22px;
+}
+
+.vertical-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+ion-item{
+    --detail-icon-color: #429EA6;
+    --detail-icon-font-size: 30px;
+    --detail-icon-opacity: 100%
+}
+
+.small-btn{
+    padding-left: 5px;
+    padding-right: 5px;
+    --border-radius: 5px;
+}

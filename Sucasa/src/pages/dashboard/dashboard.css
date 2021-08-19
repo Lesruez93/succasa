@@ -1,0 +1,29 @@
+.avatar{
+    background: #f7f7f7;
+
+}
+
+.vertical-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.editButton{
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.ion-item{
+    --detail-icon-color: #429EA6;
+    --detail-icon-font-size: 30px;
+    --detail-icon-opacity: 100%
+}
+
+
+.has-error{
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 5px;
+}

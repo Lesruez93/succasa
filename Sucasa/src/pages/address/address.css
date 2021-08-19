@@ -1,0 +1,29 @@
+.location{
+--border-radius: 0px;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #707070;
+    margin: 2em 0;
+    padding: 0;
+}
+
+h3{
+    margin-left: 10px
+}
+
+
+
+.find{
+    color: black;
+    --background: linear-gradient(165deg, rgb(227, 227, 227) 37%, rgb(158, 158, 158) 100%);
+    bottom: 50px;
+
+
+}
+.input-select{
+
+    background: #f4f4f4;
+}

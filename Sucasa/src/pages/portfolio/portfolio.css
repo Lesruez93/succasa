@@ -1,0 +1,40 @@
+.card{
+    margin-top: -170px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
+
+.card2{
+    margin-top: -70px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
+.bottom{
+    margin-top: 40%;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+.smaller{
+    font-size: smaller;
+
+}
+.img1{
+    height:23rem
+}
+.img2{
+    width: 100%;
+}
+
+
+.ion-avatar1{
+
+}
+
+.prop-image{
+    height:150px
+
+}
