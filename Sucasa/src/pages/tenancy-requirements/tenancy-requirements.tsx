@@ -174,6 +174,7 @@ export default function TenancyRequirements (props:any) {
                   </IonGrid>
 
 
+
               </IonRadioGroup>
               <IonButton disabled={!smoker || !benefit || !students || !pet} onClick={() => {
 
