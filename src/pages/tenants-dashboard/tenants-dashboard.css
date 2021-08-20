@@ -1,0 +1,58 @@
+.avatar{
+    background: #f7f7f7;
+    height: 67px;
+    width: 67px;
+
+}
+
+.vertical-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+ion-item{
+    --detail-icon-color: #429EA6;
+    --detail-icon-font-size: 30px;
+    --detail-icon-opacity: 100%
+}
+.custom-class1 .modal-wrapper {
+    --background: rgba(0, 0, 0, 0);
+}
+
+.trans-bg{
+    --background: rgba(0, 0, 0, 0);
+
+}
+
+
+.box {
+    display: inline-block;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.img-preview {
+    overflow: hidden;
+}
+
+.foot{
+    background-color: white;
+    border-radius: 15px 15px 0 0;
+    padding-top: 25px;
+}
+.filetype{
+    display: none;
+}
+
+.custom-class{
+    height: 100%;
+    --background: rgba(0, 0, 0, 0.94);
+}
+.crop-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 80px;
+}
